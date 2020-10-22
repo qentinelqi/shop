@@ -10,13 +10,13 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 
 ## Features
 
-* List product with multiple colours and sizes
-* Take payment online using SnipCart
-* Contact form
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+- List product with multiple colours and sizes
+- Take payment online using SnipCart
+- Contact form
+- Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+- RSS/Atom feed
+- SEO tags
+- Google Analytics
 
 ## Setup
 
@@ -30,15 +30,15 @@ Fur was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should supp
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ bundle install
-~~~
+```
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-~~~bash
+```bash
 $ bundle exec jekyll serve
-~~~
+```
 
 ## Editing
 
@@ -46,15 +46,15 @@ Fur is already optimised for adding, updating and removing products and editing 
 
 ### Posts
 
-* Add, update or remove a post in the *Posts* collection.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+- Add, update or remove a post in the _Posts_ collection.
+- Change the defaults when new posts are created in `_posts/_defaults.md`.
 
 ### Navigation
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
+- Exposed as a data file to give clients better access.
+- Set in the _Data_ / _Navigation_ section.
 
 ### Footer
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+- Exposed as a data file to give clients better access.
+- Set in the _Data_ / _Footer_ section.

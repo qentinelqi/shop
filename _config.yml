@@ -2,11 +2,11 @@
 # Site
 
 title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+url: '/'
 baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+# google_analytics_key:
+# google_maps_javascript_api_key:
+snipcart_key: 'NTUyMDk0MzItNmVkNy00NTZlLThmOGQtZTAwNDU4ZjdjYjUzNjM3Mzc3Mzg5MTA2NTQwNzYx'
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -15,11 +15,11 @@ author:
   name: fur
   email: fur@example.com
   twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  phone: '+1 23456789'
 social:
   name: Fur Template
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+    # - https://github.com/CloudCannon/fur-jekyll-template
 
 # -----
 # Build
@@ -37,30 +37,27 @@ collections:
 permalink: pretty
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "products"
+  - scope:
+      path: ''
+      type: 'products'
     values:
-      layout: "product"
-  -
-    scope:
-      path: ""
+      layout: 'product'
+  - scope:
+      path: ''
     values:
-      layout: "page"
-  -
-    scope:
-      path: "index.html"
+      layout: 'page'
+  - scope:
+      path: 'index.html'
     values:
-      layout: "default"
+      layout: 'default'
 
 jekyll-archives:
   enabled:
     - categories
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
 
 exclude:
   - Gemfile
