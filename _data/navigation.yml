@@ -10,3 +10,7 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Support
+  link: /support/
+  new_window: false
+  highlight: false
