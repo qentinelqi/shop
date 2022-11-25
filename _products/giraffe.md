@@ -1,5 +1,5 @@
 ---
-name: Gerald the Giraffe
+name: Gerald the Giraffe (SOLD OUT) 
 description_markdown: >-
   Gerald the giraffe isn't particularly spiritual but he has a long neck which
   can help you in a pinch.
