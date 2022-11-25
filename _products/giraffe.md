@@ -10,7 +10,7 @@ description_markdown: >-
 
 
 
-  ❌ THIS ITEM SOLD OUT ❌
+  ❌ THIS ITEM IS SOLD OUT ❌
 garment_type:
 price: '9.00'
 sku: giraffe
