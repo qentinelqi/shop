@@ -1,5 +1,5 @@
 ---
-name: Gerald the Giraffe (SOLD OUT) 
+name: Gerald the Giraffe
 description_markdown: >-
   Gerald the giraffe isn't particularly spiritual but he has a long neck which
   can help you in a pinch.
@@ -7,6 +7,10 @@ description_markdown: >-
 
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
+
+
+
+  ❌ THIS ITEM SOLD OUT ❌
 garment_type:
 price: '9.00'
 sku: giraffe
